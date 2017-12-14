@@ -1,0 +1,11 @@
+{
+  "name": "buildtime",
+  "version": "0.0.1",
+  "description": "Adds a date field to package.json",
+  "bin": {
+    "buildtime": "index.js"
+  },
+  "repository": "git@github.com:implausible/Node-Build-Time.git",
+  "author": "Tyler Wanek <tylerw@axosoft.com>",
+  "license": "MIT"
+}
